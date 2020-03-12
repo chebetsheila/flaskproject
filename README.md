@@ -14,4 +14,11 @@ we are trying to build a dynamic web page using flask
 
 ### How to host on Heroku
 
+```python
+def function_name(args):
+    do_something 
+    
+function_name(args)
+```
+
 Comming soon
